@@ -1,7 +1,11 @@
 @font-face {
-  font-family: 'SourceHanSans_SF';
-  src: url('/fonts/SourceHanSans_SF-main.ttf') format('truetype');
+  font-family: 'LXGWWenKai-Regular';
+  src: url('/fonts/LXGWWenKai-Regular.woff2') format('woff2');
   font-display: swap;
   font-weight: normal;
   font-style: normal;
+}
+
+body {
+  font-family: 'LXGWWenKai-Regular' !important;
 }
